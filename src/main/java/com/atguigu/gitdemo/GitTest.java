@@ -14,6 +14,7 @@ public class GitTest {
         System.out.println("hot-fix test");
         System.out.println("master test");
         System.out.println("master commit3");
+        System.out.println("改一些东西。。。");
     }
 
 }
